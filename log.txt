@@ -1,3 +1,0 @@
-git log -U1 --word-diff
-git log --pretty=format:"%h %an %ar %s" --graph
-git log -p -2

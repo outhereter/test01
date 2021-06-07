@@ -1,0 +1,16 @@
+
+git clone https://xxxx/xxx
+※git checkout develop
+
+開発作業
+
+git add .
+git commit -a -m "ｘｘｘｘｘ"
+
+git push origin master
+※git push origin develop
+
+※git checkout master
+※git merge develop
+※git push origin master
+
